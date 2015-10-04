@@ -1,0 +1,11 @@
+Practice:
+
+Manage events with JQuery. (previously experienced managing them with pure JS. > Annoying)
+
+Project:
+_______________________
+
+Little keyboard typing game.  - Agile development.
+     get kb device and mouse events (Keyboard on screen)
+     Draw kb on screen 
+     check the strokes  with text 
