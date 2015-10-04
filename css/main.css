@@ -56,7 +56,24 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+/* ==== FOOTER ==== */
 
+footer {
+    background: black;
+    height: 3em;
+    margin-top: 2em;
+    color: #999;
+    padding: 1em;
+}
+
+footer p {
+    text-align: center;
+}
+
+footer img {
+    height: 2em;
+    vertical-align: middle;
+}
 
 
 
